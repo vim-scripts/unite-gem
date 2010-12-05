@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3348
+
+A Unite.vim plugin to search/install RubyGems packages easily, using gem command.
+See details in the following pages.
+
+* http://github.com/ujihisa/unite-gem (development)
+
+Dependency: gem command
+
